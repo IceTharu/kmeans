@@ -13,7 +13,6 @@ A Kmeans algorithm created for Alpaca Japan. All functions used are in the file 
 - Using a random number generator for both generating the point distribution and cluster centres. This one converged after 6 iterations.
 
 - The opaque stars show initial cluster centres. Some cluster centres didn't move a lot from their initial starting position.
-- 
 ![Kmeans output with a completely random distribution and 4 random initial cluster centres.](https://github.com/IceTharu/kmeans/blob/main/fig2.png
 )
 

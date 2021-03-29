@@ -7,4 +7,10 @@ A Kmeans Algorithm created for Alpaca.
 ![Kmeans output with 4 random clusters created and 4 random initial cluster centres.](https://github.com/IceTharu/kmeans/blob/main/fig1.png
 )
 
+## With a random number generator.
+- Using a random number generator for both generating the point distribution and cluster centres. This one converged after 6 iterations.
+
+![Kmeans output with 4 random clusters created and 4 random initial cluster centres.](https://github.com/IceTharu/kmeans/blob/main/fig2.png
+)
+
 

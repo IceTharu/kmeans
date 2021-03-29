@@ -1,5 +1,5 @@
 # kmeans
-A Kmeans Algorithm created for Alpaca.
+A Kmeans algorithm created for Alpaca Japan. All functions used are in the file kmeans_functions.py, while two test cases are in the file kmeans.py.
 
 ## With 4 normally distributed point distributions randomly generated.
 - After initializing 4 normal distributions with 4 randomly generated cluster centres, this was the output result. Needing only 3 iterations.
